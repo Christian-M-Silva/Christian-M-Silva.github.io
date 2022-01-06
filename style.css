@@ -71,14 +71,14 @@ p{
     font-size: 13px;
     font-weight: bolder;
     color: hsl(178, 100%, 50%);
-    background: url(images/icon-ethereum.svg) no-repeat left;
+    background: url(icon-ethereum.svg) no-repeat left;
     padding-left: 15px;
 }
 
 #right{
     margin-left: 83px;
     padding-left: 20px;
-    background: url(images/icon-clock.svg) no-repeat left;
+    background: url(icon-clock.svg) no-repeat left;
 }
 
 #gray{
