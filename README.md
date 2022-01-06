@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](design/MyPreview.PNG)
+![](MyPreview.PNG)
 
 
 ## My process
